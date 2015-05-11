@@ -1,4 +1,5 @@
 """
+change in climin
 This tutorial introduces logistic regression using Theano and conjugate
 gradient descent.
 
